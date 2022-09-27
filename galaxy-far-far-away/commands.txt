@@ -1,0 +1,1143 @@
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ cd
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ cd code
+bash: cd: code: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ cd
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ cd d
+bash: cd: d: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ cd downloads
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/downloads
+$ cd
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/Users
+$ pwd
+/c/Users
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/Users
+$ ls
+'All Users'@   Default/  'Default User'@   Public/   desktop.ini   jamel/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/Users
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c
+$ ls
+'$Recycle.Bin'/             OneDriveTemp/                 Users/
+'$WinREAgent'/              PerfLogs/                     Windows/
+ CosairDram.txt            'Program Files'/               XboxGames/
+'Documents and Settings'@  'Program Files (x86)'/         adobeTemp/
+ DumpStack.log              ProgramData/                  hiberfil.sys
+ DumpStack.log.tmp          QueryAllDevice.xml            pagefile.sys
+ GetDeviceCap.xml           Recovery/                     setup.log
+ GetDeviceStatus.xml        SetMatrixLEDScript.xml        swapfile.sys
+ NVIDIA/                   'System Volume Information'/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c
+$ cd onedrive
+bash: cd: onedrive: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c
+$ cd onedrivetemp
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/onedrivetemp
+$ ls
+S-1-5-21-1321815973-2774022659-3364050058-1003/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/onedrivetemp
+$ cd..
+bash: cd..: command not found
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/onedrivetemp
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c
+$ ls -a
+'$Recycle.Bin'/            'Program Files (x86)'/
+'$WinREAgent'/              ProgramData/
+ ./                         QueryAllDevice.xml
+ ../                        Recovery/
+ .GamingRoot                SetMatrixLEDScript.xml
+ CosairDram.txt            'System Volume Information'/
+'Documents and Settings'@   Users/
+ DumpStack.log              Windows/
+ DumpStack.log.tmp          XboxGames/
+ GetDeviceCap.xml           adobeTemp/
+ GetDeviceStatus.xml        hiberfil.sys
+ NVIDIA/                    pagefile.sys
+ OneDriveTemp/              setup.log
+ PerfLogs/                  swapfile.sys
+'Program Files'/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c
+$ cd
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ cd pwd
+bash: cd: pwd: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/Users
+$ cd ls
+bash: cd: ls: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/Users
+$ ls
+'All Users'@   Default/  'Default User'@   Public/   desktop.ini   jamel/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/Users
+$ cd C:\Users\jamel\OneDrive\Desktop\Software class work
+bash: cd: too many arguments
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/Users
+$ cd c:
+
+jamel@DESKTOP-4LBI82C MINGW64 /c
+$ cd c:\users\jamel\onedrive\desktop
+bash: cd: c:usersjamelonedrivedesktop: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c
+$ cd c:\users\jamel\desktop
+bash: cd: c:usersjameldesktop: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c
+$ ls
+'$Recycle.Bin'/             OneDriveTemp/                 Users/
+'$WinREAgent'/              PerfLogs/                     Windows/
+ CosairDram.txt            'Program Files'/               XboxGames/
+'Documents and Settings'@  'Program Files (x86)'/         adobeTemp/
+ DumpStack.log              ProgramData/                  hiberfil.sys
+ DumpStack.log.tmp          QueryAllDevice.xml            pagefile.sys
+ GetDeviceCap.xml           Recovery/                     setup.log
+ GetDeviceStatus.xml        SetMatrixLEDScript.xml        swapfile.sys
+ NVIDIA/                   'System Volume Information'/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c
+$ cd onedrive
+bash: cd: onedrive: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /
+$ cd onedrive
+bash: cd: onedrive: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /
+$ cd software class
+bash: cd: too many arguments
+
+jamel@DESKTOP-4LBI82C MINGW64 /
+$ cd software class work
+bash: cd: too many arguments
+
+jamel@DESKTOP-4LBI82C MINGW64 /
+$ cd software_classwork
+bash: cd: software_classwork: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /
+$ cd ^[[200~'/c/Users/jamel/OneDrive/Desktop/Software classwork'~
+bash: cd: $'\E[200~/c/Users/jamel/OneDrive/Desktop/Software classwork~': No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /
+$ cd '/c/Users/jamel/OneDrive/Desktop/Software classwork'
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive/Desktop/Software classwork
+$ mkdir classwork
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive/Desktop/Software classwork
+$ mk drawers
+bash: mk: command not found
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive/Desktop/Software classwork
+$ mkdir drawers
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive/Desktop/Software classwork
+$ cd drawers
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive/Desktop/Software classwork/drawers
+$ mkdir socks && cd socks
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive/Desktop/Software classwork/drawers/socks
+$ touch dress.socks
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive/Desktop/Software classwork/drawers/socks
+$ ls
+dress.socks
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive/Desktop/Software classwork/drawers/socks
+$ touch socks.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive/Desktop/Software classwork/drawers/socks
+$ ls
+dress.socks  socks.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive/Desktop/Software classwork/drawers/socks
+$ cd..
+bash: cd..: command not found
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive/Desktop/Software classwork/drawers/socks
+$ cd
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ cd c:/onedrive
+bash: cd: c:/onedrive: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ cd /c/Users/jamel/OneDrive
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive
+$ ls
+ Desktop/                   Documents/            Pictures/
+'Desktop - Shortcut.lnk'*  'Email attachments'/   desktop.ini
+
+jamel@DESKTOP-4LBI82C MINGW64 ~/OneDrive
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 ~
+$ cd /c/users/jamel/onedrive
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive
+$ cd software_classwork
+bash: cd: software_classwork: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive
+$ cd desktop
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd software_classwork && cd drawers
+bash: cd: software_classwork: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd software classwork
+bash: cd: too many arguments
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd software_classwork
+bash: cd: software_classwork: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd Software_classwork
+bash: cd: Software_classwork: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ ls
+ 9d98dd709d70d6560de99189bbcd46b3a5a9c601_hq.jpg
+'Adventure Time Pirates of the Enchiridion.url'
+'Amazon Games.lnk'*
+ Atom-DESKTOP-4LBI82C.lnk*
+ Atom.lnk*
+'Coding for Beginners in Easy Steps - Basic Programming for All Ages (2015).epub'
+'Cyberpunk 2077 Bonus Content.url'
+'Cyberpunk 2077.url'
+'DRAGON QUEST XI S Echoes of an Elusive Age – Definitive Edition.url'
+ Desktop/
+'Electronic Arts old'/
+'Fallout 4.url'
+'Git Commands.txt'
+'Google Chrome.lnk'*
+ Hyper.lnk*
+'J - Chrome.lnk'*
+ Lightroom.lnk*
+'MSI Afterburner.lnk'*
+ Msi/
+'My Time At Portia.url'
+'New Text Document (2).txt'
+'New Text Document (3).txt'
+'New Text Document.txt'
+'New folder'/
+'NiceHash QuickMiner.lnk'*
+ OurStory.html
+ Preworkindex.html
+ Slack.lnk*
+'Software classwork'/
+'Thinkroot Records - 8-Bit Brave Adventure 4-PACK'/
+'Visual Studio Code.lnk'*
+'YouTube Music.lnk'*
+ Zoom.lnk*
+ blender.lnk*
+ bounty-chopper-wanted-one-piece-aditya-sena-transparent.jpg
+ desktop.ini
+ examine_the_page/
+ futurama/
+ park/
+ unpoy/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd Software classwork
+bash: cd: too many arguments
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd /Software classwork
+bash: cd: too many arguments
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd Softwareclasswork
+bash: cd: Softwareclasswork: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd Software_classwork
+bash: cd: Software_classwork: No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd desktop
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/desktop
+$ cd software classword
+bash: cd: too many arguments
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/desktop
+$ cd software classwork
+bash: cd: too many arguments
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/desktop
+$ ls
+'2010-06-25 bubba'/  '2010-06-30 june 30'/    'New Text Document.txt'   not/
+'2010-06-26 0626'/   '2010-06-30 june 30th'/  'New folder (3)'/
+'2010-06-29 pesto'/   Image/                   bm/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/desktop
+$ cd .
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/desktop
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd software classwork
+bash: cd: too many arguments
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd ^[[200~C:\Users\jamel\OneDrive\Desktop\Software classwork\drawers\PJs~
+bash: cd: too many arguments
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ ls
+ 9d98dd709d70d6560de99189bbcd46b3a5a9c601_hq.jpg
+'Adventure Time Pirates of the Enchiridion.url'
+'Amazon Games.lnk'*
+ Atom-DESKTOP-4LBI82C.lnk*
+ Atom.lnk*
+'Coding for Beginners in Easy Steps - Basic Programming for All Ages (2015).epub'
+'Cyberpunk 2077 Bonus Content.url'
+'Cyberpunk 2077.url'
+'DRAGON QUEST XI S Echoes of an Elusive Age – Definitive Edition.url'
+'Electronic Arts old'/
+'Fallout 4.url'
+'Git Commands.txt'
+'Google Chrome.lnk'*
+ Hyper.lnk*
+'J - Chrome.lnk'*
+ Lightroom.lnk*
+'MSI Afterburner.lnk'*
+ Msi/
+'My Time At Portia.url'
+'New Text Document (2).txt'
+'New Text Document (3).txt'
+'New Text Document.txt'
+'New folder'/
+'NiceHash QuickMiner.lnk'*
+ OurStory.html
+ Preworkindex.html
+ Slack.lnk*
+'Software classwork'/
+'Thinkroot Records - 8-Bit Brave Adventure 4-PACK'/
+'Visual Studio Code.lnk'*
+'YouTube Music.lnk'*
+ Zoom.lnk*
+ blender.lnk*
+ bounty-chopper-wanted-one-piece-aditya-sena-transparent.jpg
+ desktop.ini
+ examine_the_page/
+ futurama/
+ park/
+ unpoy/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ ls
+ 9d98dd709d70d6560de99189bbcd46b3a5a9c601_hq.jpg
+'Adventure Time Pirates of the Enchiridion.url'
+'Amazon Games.lnk'*
+ Atom-DESKTOP-4LBI82C.lnk*
+ Atom.lnk*
+'Coding for Beginners in Easy Steps - Basic Programming for All Ages (2015).epub'
+'Cyberpunk 2077 Bonus Content.url'
+'Cyberpunk 2077.url'
+'DRAGON QUEST XI S Echoes of an Elusive Age – Definitive Edition.url'
+'Electronic Arts old'/
+'Fallout 4.url'
+'Git Commands.txt'
+'Google Chrome.lnk'*
+ Hyper.lnk*
+'J - Chrome.lnk'*
+ Lightroom.lnk*
+'MSI Afterburner.lnk'*
+ Msi/
+'My Time At Portia.url'
+'New Text Document (2).txt'
+'New Text Document (3).txt'
+'New Text Document.txt'
+'New folder'/
+'NiceHash QuickMiner.lnk'*
+ OurStory.html
+ Preworkindex.html
+ Slack.lnk*
+'Software classwork'/
+'Thinkroot Records - 8-Bit Brave Adventure 4-PACK'/
+'Visual Studio Code.lnk'*
+'YouTube Music.lnk'*
+ Zoom.lnk*
+ blender.lnk*
+ bounty-chopper-wanted-one-piece-aditya-sena-transparent.jpg
+ desktop.ini
+ examine_the_page/
+ futurama/
+ park/
+ unpoy/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ mv Software\ classwork/ Software_classwork
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop
+$ cd Software_classwork/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork
+$ ls
+classwork/  drawers/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork
+$ cd drawers
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ ls
+PJs/  socks/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd pjs
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ touch pjs.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ touch warm.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ touch warm.pjs
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ touch favorite.socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ cd .
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ touch favorite.socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ mkdir shirts
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ ls
+PJs/  shirts/  socks/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd shirts
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/shirts
+$  touch red.shirts
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/shirts
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ mkdir shorts
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ ls
+PJs/  shirts/  shorts/  socks/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ ls
+PJs/  shirts/  shorts/  socks/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd pjs
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ ls
+favorite.socks  pjs.txt  warm.pjs  warm.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ mv warm.pjs summer.pjs
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ ls
+favorite.socks  pjs.txt  summer.pjs  warm.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ socks
+bash: socks: command not found
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ rn dress.socks
+bash: rn: command not found
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ rm dress.socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ ls
+favorite.socks  socks.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ ls
+favorite.socks  socks.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd pjs
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ ls
+favorite.socks  pjs.txt  summer.pjs  warm.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/pjs
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ rm -r pjs
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ ls
+shirts/  shorts/  socks/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ ls
+shirts/  shorts/  socks/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ mk dir pjs
+bash: mk: command not found
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ mkdir pjs
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ ls
+pjs/  shirts/  shorts/  socks/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork
+$ cd drawers
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ mv *.socks ../shorts
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ ls
+socks.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd shorts
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/shorts
+$ ls
+favorite.socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/shorts
+$ mv *.socks ../socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/shorts
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ ls
+favorite.socks  socks.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ mv *.socks ../shorts
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ ls
+socks.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ touch red.socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ cp red.socks ../red.socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ ls
+pjs/  red.socks  shirts/  shorts/  socks/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ rm red.socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ ls
+pjs/  shirts/  shorts/  socks/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cp -r shirts socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd socks
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ ls
+red.socks  shirts/  socks.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers/socks
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/drawers
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork
+$ mkdir galaxy-far-far-away
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork
+$ ls
+classwork/  drawers/  galaxy-far-far-away/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork
+$ cd galaxy-far-far-away/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ touch commands.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ mkdir death_star
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd death_star/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ touch darth_vader.txt && touch princess_leia.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ touch storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt  storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ mkdir tatooine
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd tatooine/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ touch luke.txt ben_kenobi.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ ls
+ben_kenobi.txt  luke.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ mkdir millenium_falcon
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ cd millenium_falcon/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine/millenium_falcon
+$ touch han_solo.txt chewbaca.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine/millenium_falcon
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ ls
+ben_kenobi.txt  luke.txt  millenium_falcon/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ rm ben_kenobi.txt obi_an.txt
+rm: cannot remove 'obi_an.txt': No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ cp ben_kenobi.txt obi_an.txt
+cp: cannot stat 'ben_kenobi.txt': No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ touch ben_kenobi.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ ls
+ben_kenobi.txt  luke.txt  millenium_falcon/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ mv ben_kenobi.txt obi_wan.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ mv luke.txt obi_wan.txt /tatooine
+mv: target '/tatooine' is not a directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ mv luke.txt obi_wan.txt /millenium_falcon
+mv: target '/millenium_falcon' is not a directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ cd millenium_falcon/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine/millenium_falcon
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ mv *txt /millenium_falcon
+mv: target '/millenium_falcon' is not a directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ cd ..
+\
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd death_star/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt ../tatoonie
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt  storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/  tatoonie
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ tatooine/
+bash: tatooine/: Is a directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd tatooine
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ mv luke.txt millenium_falcon/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ mv obi_wan.txt millenium_falcon/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd tatooine
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ mv millenium_falcon ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/  tatoonie
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd tatooine
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ ls
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/  tatoonie
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd death_star
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt  storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ^C
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ^C
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt  storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt ../tatooine
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/  tatoonie
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd tatooine
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ ls
+storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ rm tatoonie
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls]
+bash: ls]: command not found
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ mv millenium_falcon /death_star
+mv: cannot move 'millenium_falcon' to '/death_star': Permission denied
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ mv millenium_falcon death_star
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd death_star/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  millenium_falcon/  princess_leia.txt  storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ mv princess_leia.txt /death_star
+mv: cannot move 'princess_leia.txt' to '/death_star': Permission denied
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ mv princess_leia.txt death_star
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ mkdir yavin_4
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/  yavin_4/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd tatooine
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ ls
+storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/tatooine
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd death_star
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ mv millenium_falcon ../yavin_4
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/  yavin_4/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd yavin_4
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ mkdir x_wing
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/  x_wing/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ cd millenium_falcon
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  obi_wan.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4/millenium_falcon
+$ rm obi_wan.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4/millenium_falcon
+$ mv princess_leia.txt ..
+mv: cannot stat 'princess_leia.txt': No such file or directory
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4/millenium_falcon
+$ mv luke.txt ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4/millenium_falcon
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ ls
+luke.txt  millenium_falcon/  x_wing/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ mv luke.txt x_wing
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd death_star
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  death_star  storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/  yavin_4/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd yavin_4/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/  x_wing/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ cd millenium_falcon/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4/millenium_falcon
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ touch princess_leia.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ mv millenium_falcon ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ mv x_wing ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/yavin_4
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd death_star/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ mkdir tie_fighter_1
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ mkdir tie_fighter_2
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ mkdir tie_fighter_3
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cd tie_fighter_1
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star/tie_fighter_1
+$ touch darth_vader.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star/tie_fighter_1
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  storm_trooper.txt  tie_fighter_2/
+death_star       tie_fighter_1/     tie_fighter_3/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ rm darth_vader.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt tie_fighter_2 tie_fighter_3
+cp: -r not specified; omitting directory 'tie_fighter_2'
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt tie_fighter_2
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt tie_fighter_3
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ mv tie_fighter_* ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ls
+death_star  storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ re death_star
+bash: re: command not found
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ls
+death_star  storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ rm death_star
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/death_star
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  millenium_falcon/  tie_fighter_1/  tie_fighter_3/  yavin_4/
+death_star/   tatooine/          tie_fighter_2/  x_wing/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ rm -r tie_fighter_2
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  millenium_falcon/  tie_fighter_1/  x_wing/
+death_star/   tatooine/          tie_fighter_3/  yavin_4/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ rm -r tie_fighter_3
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ cd x_wing/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/x_wing
+$ touch the_force.txt
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away/x_wing
+$ cd ..
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  millenium_falcon/  tie_fighter_1/  yavin_4/
+death_star/   tatooine/          x_wing/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ rm -r death_star/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ mv millenium_falcon yavin_4 && mv x_wing yavin_4
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$ ls
+commands.txt  tatooine/  tie_fighter_1/  yavin_4/
+
+jamel@DESKTOP-4LBI82C MINGW64 /c/users/jamel/onedrive/desktop/Software_classwork/galaxy-far-far-away
+$
